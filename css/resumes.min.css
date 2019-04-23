@@ -1,12 +1,13 @@
-html{ 
- font-family: 'Nota Sans TC', sans-serif;
+body{ 
+ font-family: 'Noto Sans SC', sans-serif;
  }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Nota Sans TC', sans-serif;
+	font-family: 'Noto Sans SC', sans-serif;
 	text-transform:none；
 }
+ 
 .subheading{
-	font-family: 'Nota Sans TC', sans-serif;
+	font-family: 'Noto Sans SC', sans-serif;
 	font-size: 1.2rem;
 	text-transform: none;
 	letter-spacing: -0.05rem;
